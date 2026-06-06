@@ -1,2 +1,4 @@
-# My_project
-mini project for future advantages
+# my projects
+This is my mini projects for future placement purposes.
+<br>
+author -Tarun Malik
