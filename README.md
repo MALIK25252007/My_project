@@ -1,4 +1,4 @@
 # my projects
-This is my mini projects for future placement purposes.
+mini projets using html and css.
 <br>
 author -Tarun Malik
