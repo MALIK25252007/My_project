@@ -1,0 +1,44 @@
+body {
+    background-image: url('background123.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.main {
+    background-color: rgb(238, 238, 3);
+    padding: 20px;
+    width: 24%;
+    margin: auto;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    row-gap: 4px;
+    column-gap: 2.5px;
+}
+
+.row {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(199, 199, 199);
+    text-align: center;
+    line-height: 80px;
+}
+
+textarea {
+    text-align: right;
+    width: 95%;
+    height: 80px;
+}
+
+.number {
+    background-color: rgb(236, 236, 236);
+}
+
+.row:hover {
+    background-color: rgb(182, 182, 182);
+    cursor: pointer;
+}
