@@ -6,7 +6,7 @@ A homepage for a website using **pure HTML5 and CSS3**. Also a sign-in box with 
 
 ## 🚀 Live Demo
 
-Check out the interactive preview: **https://MALIK25252007.github.io/My_First_Webpage/**
+Check out the interactive preview: **https://MALIK25252007.github.io/My_first_Webpage/**
 <br><br>
 ## Reference Image
 <br><br>
